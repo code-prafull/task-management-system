@@ -11,7 +11,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: `http://localhost:5173`,
+    origin: `https://task-management-system-q9hp5t4jt-prafull-singhs-projects.vercel.app/`,
     credentials: true
   })
 );
