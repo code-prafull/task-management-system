@@ -11,7 +11,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: `https://task-management-system-q9hp5t4jt-prafull-singhs-projects.vercel.app/`,
+    origin: `https://task-management-system-puce-zeta.vercel.app`,
     credentials: true
   })
 );
