@@ -8,18 +8,18 @@ A full-stack **Task Management System** built using the **MERN Stack**. This app
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 User Authentication (Register & Login)
-- 🛡️ JWT Protected Routes
-- ➕ Create New Tasks
-- 📝 Update Existing Tasks
-- ❌ Delete Tasks
-- 📋 View All Tasks
-- 🔒 Password Hashing using bcrypt
-- 🌐 RESTful API
-- 📱 Responsive UI
-- ☁️ MongoDB Database Integration
+-  User Authentication (Register & Login)
+-  JWT Protected Routes
+-  Create New Tasks
+-  Update Existing Tasks
+-  Delete Tasks
+-  View All Tasks
+-  Password Hashing using bcrypt
+-  RESTful API
+-  Responsive UI
+-  MongoDB Database Integration
 
 ---
 
@@ -82,7 +82,7 @@ Task-Management-System
 - Protected Routes
 - Authorized CRUD Operations
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone Repository
 
@@ -107,7 +107,7 @@ npm run dev
 ```
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
 ### Authentication
 
@@ -129,13 +129,13 @@ npm run dev
 
 ## 🚀 Future Improvements
 
-- ✅ Task Status (Pending / Completed)
-- 📅 Due Date
-- 🔍 Search Tasks
-- 🏷️ Categories
-- 🌙 Dark Mode
-- 📊 Dashboard Analytics
-- 👤 User Profile
+-  Task Status (Pending / Completed)
+-  Due Date
+-  Search Tasks
+-  Categories
+-  Dark Mode
+-  Dashboard Analytics
+-  User Profile
 
 ---
 
